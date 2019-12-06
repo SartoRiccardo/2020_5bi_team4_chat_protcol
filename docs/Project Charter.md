@@ -1,15 +1,6 @@
-﻿
-# Project Title: Chat Protocol
-| | |
-| --- | --- |
-| **Start date:** | 15/10/2019 |
-| **End date:** | 29/10/2019 |
-| **Project Manger** | Lorenzo DeCarli |
+﻿ | | |
+ |---|---|
+ |**Project Priorities and degrees of freedom**|Nell'esecuzione del programma, l'elasticità che ci è stata data è stata di un paio di settimane. Terminate le due settimane c'era il termine della consegna del progetto in questione. Si tratta di un progetto puramente scolastico, quindi il lavoro è a carico delle ore scolastico senza alcun budget da spendere nell'esecuzione di questo progetto. Si tratta di un software immediato e semplice e la manutenzione avviene facilmente tramite codice di programmazione Python|
+ |**Approach**|L'approccio all'esecuzione del programma è iniziato con la costruzione di un client e un server tramite Socket con l'apertura di una connessione tra client e server. Il professore ci ha fornito
 
-## Schedule Information
-Our schedule is planned, as we already have a deadline to our project. The project has to last 3 lessons of 3 hours each, for a total of 9 hours, at the end of which each employee has to have either a client or a server implementing the Chat Protocol has to be complete.
-+ *15/10/2019:* Project Explanation
-+ *29/10/2019:* Project Complete
 
-## Finantial Information
-The project has no budget, and no employee is getting paid
