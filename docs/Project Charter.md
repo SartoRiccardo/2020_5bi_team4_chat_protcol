@@ -1,4 +1,4 @@
-﻿
+﻿  
 # Project Title: Chat Protocol
 | | |
 | --- | --- |
@@ -13,3 +13,10 @@ Our schedule is planned, as we already have a deadline to our project. The proje
 
 ## Finantial Information
 The project has no budget, and no employee is getting paid
+
+##### Purpose
+Everyday people use messages to communicate with other people or share information like photos, videos and documents.
+All these opportunities are made possible thanks to network, computer science and protocols.
+Students must implement a chat protocol to learn how it works, what could be possible problems and how to solve them.
+It gives guys the possibility to write a program that emulate a real chat, based on a protocol and is an opportunity to understand all the aspect of everyday things. 
+
