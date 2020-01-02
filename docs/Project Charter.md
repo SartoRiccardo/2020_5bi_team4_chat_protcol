@@ -26,3 +26,12 @@ The program is expected to:
 - Provide a textual or graphical interface to communicate.
 -   Send and control packets that respect the protocol.
 -   Send and receive messages, view their content and provide general information about the chat, for example who is logged in.
+
+## Scope
+The students are divided between who will develop the client and who will develop the server.
+- Client: the program must provide the ability to (1) send and receive packets and view related messages. Messages can be private, public or multicast.
+In addition, (2) packages must be implemented to register, log in and log out.
+Finally, (3) a package must be provided to request a list of connected users.
+- Server: the program must (1) check the correctness of the packets that arrive, and return one with the result of the verification.
+In addition, (2) it must forward messages to its recipients.
+Finally, (3) it must deal with the management of the users who want to register, log in and log out.
