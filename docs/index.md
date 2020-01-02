@@ -1,6 +1,3 @@
-# Sono una index
-ciao
+# Chat Protocol Documentation
 
-hello
-
-## World
++ [Project Charter](Project Charter.md)
