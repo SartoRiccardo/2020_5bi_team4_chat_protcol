@@ -64,6 +64,7 @@ All parts of the protocol must be correctly implemented.
 ### 1.7 Definitions
 
 1. **Student:** A person developing the project, not necessarily part of our team.
+2. **Protocol:** A custom set of rules for 2 or more applications to let them properly communicate. Created specifically for this project. May also be referred to as **Chat Protocol**.
 
 ### 1.8 Evolution of the Project Plan
 
@@ -133,3 +134,32 @@ Broad milestones were set for this plan:
 | Project Submission | Record the effort taken to complete the project |
 
 ## 5 Supporting Process Plans
+
+### 5.1 Risk Management Plan
+
+| Risk | Probability | Priority | Response |
+| ---- | ----------- | ------ | -------- |
+| Lack of skill | Very high | Urgent | Private lessons with someone who knows how the various APIs work; requesting help from the teachers. |
+| Network issues | Unlikely | Low | Ask help from the technicians. |
+
+### 5.2 Configuration Management Plan
+
+1. The source code will be stored in a git repo.
+2. The name of the folder containing the source code will be *team*_*project-name*_01_01, where *team* is our team number and *project-name* is either "client" or "server".
+
+### 5.3 Verification and Validation Plan
+
+Before every lesson, a small check will happen to see how the development is going.
+
+### 5.4 Product Acceptance Plan
+
+#### 5.4.1 Client Acceptance Plan
+The following points assume a server application is present and functioning correctly.
+1. The client must have a functioning user interface (whether text or graphic) and must be able to communicate with a server using the same protocol.
+2. The client must have a way to use all the features described in the protocol.
+3. The client must handle all responses received from the server.
+
+#### 5.4.2 Server Acceptance Plan
+The following points assuming a client application is present and functioning correctly.
+1. The server must be able to accept connections from multiple hosts at the same time.
+2. The server must be able to receive data from remote connections, correctly interpret them and act as needed, following the protocol.
