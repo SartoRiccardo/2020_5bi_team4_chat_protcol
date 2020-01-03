@@ -1,6 +1,6 @@
 # Software Project Management Plan
 # Chat Protocol
-<data>
+03/01/2020
 
 #### Team Members
 + Sartori Riccardo
@@ -58,6 +58,7 @@ The application will most likely never be used outside the classroom it was deve
 Either:
 + A server capable of receiving and handling multiple requests from multiple hosts
 + A client capable of connecting and communicating with a server, interpreting the responses it sends.
+
 All parts of the protocol must be correctly implemented.
 
 ### 1.7 Definitions
@@ -89,6 +90,31 @@ The project is small enough to only have one phase, which begins with the start 
 
 ### 2.4 Tools
 
-+ **Programming Language:** Python 3.7 or higher
++ **Programming Language:** Python 3.7 or higher.
 + **Version Control:** Source code will be stored in a git repo.
-+ **Development Tools:** PyCharm
++ **Development Tools:** PyCharm.
+
+## 3 Work Plan
+
+### 3.1 Activities and Tasks
+
+| Task name | Owner | Task Description |
+| --------- | ----- | ---------------- |
+| Learning the protocol | Project Manager | Learning how the protocol works, all the possibilities that could arise and teach it to the programmers |
+| Development | Programmers, Project Manager | Develop either the client or the server |
+
+### 3.2 Release Plan
+
+| Release | Date | Description |
+| ------- | ---- | ----------- |
+| Release 1.0 | 29/10/2019 | A fully functioning client or server application |
+
+### 3.3 Iteration Plan
+
+The project is small enough to have only one iteration as well, starting and finishing with the project itself.
+
+### 3.4 Budget
+
+The project has no budget.
+
+## 4 Control Plan
