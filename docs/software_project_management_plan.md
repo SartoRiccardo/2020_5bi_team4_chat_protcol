@@ -25,11 +25,11 @@ The application will most likely never be used outside the classroom it was deve
 
 ### 1.2 Goals and Objectives
 
-Project goals:
+#### 1.2.1 Project Goals
 1. Teach students how to program low-level applications.
 2. Help students understand how packets are sent or received and which protocols work best in which situations.
 
-Project objectives:
+#### 1.2.2 Project Objectives
 1. Create a server capable of handling multiple requests at the same time using threads.
 2. Create a client software that can make use all of the protocol's functionalities.
 
@@ -68,4 +68,27 @@ All parts of the protocol must be correctly implemented.
 
 As the project is relatively simple, there is only one phase to the plan, meaning that there can be no evolution.
 
+## 2 Startup Plan
 
+### 2.1 Team Organization
+
++ **Project Manager:** Must coordinate the team and take orders from the higher-ups.
+	+ Sartori Riccardo
++ **Programmers:** Responsible for developing and testing the application. They must partecipate in team meetings and report to the Project Manager.
+	+ Ghisellini Damiano
+	+ Mafficini Andrea
+	+ Bianchini Davide
+
+### 2.2 Project Communications
+
+The team communicates informally through team meetings and informal gatherings. Team members are free to ask each other information whenever they need it.
+
+### 2.3 Technical Process
+
+The project is small enough to only have one phase, which begins with the start of the app's development and ends when it's finished.
+
+### 2.4 Tools
+
++ **Programming Language:** Python 3.7 or higher
++ **Version Control:** Source code will be stored in a git repo.
++ **Development Tools:** PyCharm
