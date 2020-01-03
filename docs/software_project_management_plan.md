@@ -56,14 +56,14 @@ The application will most likely never be used outside the classroom it was deve
 ### 1.6 Success Criteria
 
 Either:
-+ A server capable of receiving and handling multiple requests from multiple hosts
-+ A client capable of connecting and communicating with a server, interpreting the responses it sends.
+1. A server capable of receiving and handling multiple requests from multiple hosts
+2. A client capable of connecting and communicating with a server, interpreting the responses it sends.
 
 All parts of the protocol must be correctly implemented.
 
 ### 1.7 Definitions
 
-+ **Student:** A person developing the project, not necessarily part of our team.
+1. **Student:** A person developing the project, not necessarily part of our team.
 
 ### 1.8 Evolution of the Project Plan
 
@@ -73,16 +73,16 @@ As the project is relatively simple, there is only one phase to the plan, meanin
 
 ### 2.1 Team Organization
 
-+ **Project Manager:** Must coordinate the team and take orders from the higher-ups.
+1. **Project Manager:** Must coordinate the team and take orders from the higher-ups.
 	+ Sartori Riccardo
-+ **Programmers:** Responsible for developing and testing the application. They must partecipate in team meetings and report to the Project Manager.
+2. **Programmers:** Responsible for developing and testing the application. They must partecipate in team meetings and report to the Project Manager.
 	+ Ghisellini Damiano
 	+ Mafficini Andrea
 	+ Bianchini Davide
 
 ### 2.2 Project Communications
 
-The team communicates informally through team meetings and informal gatherings. Team members are free to ask each other information whenever they need it.
+The team communicates informally through informal gatherings. Team members are free to ask each other information whenever they need it.
 
 ### 2.3 Technical Process
 
@@ -90,9 +90,9 @@ The project is small enough to only have one phase, which begins with the start 
 
 ### 2.4 Tools
 
-+ **Programming Language:** Python 3.7 or higher.
-+ **Version Control:** Source code will be stored in a git repo.
-+ **Development Tools:** PyCharm.
+1. **Programming Language:** Python 3.7 or higher.
+2. **Version Control:** Source code will be stored in a git repo.
+3. **Development Tools:** PyCharm.
 
 ## 3 Work Plan
 
@@ -118,3 +118,18 @@ The project is small enough to have only one iteration as well, starting and fin
 The project has no budget.
 
 ## 4 Control Plan
+
+### 4.1 Monitoring and Control
+
+Broad milestones were set for this plan:
+1. **15/10/2019:** Explanation of the protocol to implement.
+2. Weekly reports to check progress.
+3. **29/10/2019:** Project submission.
+
+### 4.2 Project Measurements
+
+| Phase | Measurement |
+| ----- | ----------- |
+| Project Submission | Record the effort taken to complete the project |
+
+## 5 Supporting Process Plans
