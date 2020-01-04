@@ -79,3 +79,31 @@ No legal requirements have been identified for this project.
 
 ## 3.6 Other Quality Attributes
 Each host must send packets that follow the protocol and no errors should occur during program execution.
+
+
+# 4 SYSTEM FEATURES
+
+## 4.1 Feature: Implement a voting system
+
+### 4.1.1 Description and Priority
+Cost: none
+Risk: low
+Value: medium
+
+### 4.1.2 Use Case: Vote
+Actors: voters, supervisor.
+
+Description: This use case begins when there is a vote.
+
+Basic Path:
+
+1. The supervisor checks that everything is working, even in terms of security.
+2. Voters are asked to cast their vote, via textual or graphical interface.
+3.   When everyone has voted, everything is checked for success and the votes are counted.
+
+Alternative Path:
+
+If one of the points is not respected, the safety of the program must be checked.
+
+### 4.1.3 Additional Requirements
+N/A
