@@ -1,6 +1,6 @@
-﻿# Requirements for the Chat Protocol
+# Software Requirements Specification
 ---
-# 1. INTRODUCTION
+# 1. Introduction
 
 ## 1.1 Overview
 The chat protocol is a project inside the G. Marconi institute and created by the students.
@@ -19,7 +19,7 @@ In general, each program must:
 - Handle any incorrect packages.
 
 ## 1.3 Scope
-The students are divided between who will develop the client and who will develop the server.
+The students are divided in client developers and server developers.
 
 -   Client: the program must provide the ability to send and receive packets and view related messages.
 Messages can be private, public or multicast. In addition, packages must be implemented to register, log in and log out. 
@@ -27,38 +27,37 @@ Finally, a package must be provided to request a list of connected users.
 
 -   Server: the program must check the correctness of the packets that arrive, and return one with the result of the verification. 
 In addition, it must forward messages to its recipients.
-Finally, it must deal with the management of the users who want to register, log in and log out.
+Finally, it must manage users who want to register, log in and log out.
 
 The purpose of the project is to provide a sort of space where you can communicate with other users and get general information about the chat.
 
 ## 1.4 Assumptions
-It is assumed that all the computers participating in the project are connected to each other and authorized by the server to communicate and that all have installed Python 3.7.
+It is assumed that all the computers participating in the project are connected to each other and authorized by the server to communicate and that they all have Python 3.7 or higher installed.
 Each user must register first.
 
 There are no additional security or access control mechanisms.
 
 
-# 2. GENERAL DESIGN CONSTRAINTS
+# 2. General Design Constraints
 
 ## 2.1 Product Environment
 In the scope of this project, each program must provide an interface, textual or graphic, to allow the user to read and write messages.
 There is no storage space for these messages.
 
 ## 2.2 User Characteristics
-Users can be divided between:
+Users can be divided in:
 - who manages the server, that is responsible for registering users, blocking them and checking packages.
-- clients, that have the same priority and can only send  and receive messages and request information.
+- clients, that have the same priority and can only send and receive messages and request information.
 
 ## 2.3 Mandated Constraints
-- The final solution must not depend on a specific programming language.
-- Every user must have Python 3.7 installed.
+- The program must follow the protocol given to us.
 
 ## 2.4 Potential System Evolution
-No future evolution of the project is expected, as it represents only an exercise.
+No future evolution of the project is expected, as it only represents an exercise.
 A possible evolution of the program, however, could include message storage and a more developed graphical interface.
 
 
-# 3 NONFUNCTIONAL REQUIREMENTS
+# 3 Nonfunctional Requirements
 
 ## 3.1 Operational Requirements
 - The application has to allow different users to view messages, while preserving the accuracy of the data.
@@ -81,7 +80,7 @@ No legal requirements have been identified for this project.
 Each host must send packets that follow the protocol and no errors should occur during program execution.
 
 
-# 4 SYSTEM FEATURES
+# 4 System Features
 
 ## 4.1 Feature: Implement a voting system
 
