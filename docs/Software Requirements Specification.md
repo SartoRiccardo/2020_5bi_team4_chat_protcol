@@ -14,18 +14,18 @@ Planning, development methods, development phases, final results or test procedu
 The main objective of the project is to provide an application that allows authorized users to communicate with each other.
 
 In general, each program must:
--   Provide a textual or graphical interface to communicate.
--   Send and receive messages and view their content.
+- Provide a textual or graphical interface to communicate.
+- Send and receive messages and view their content.
 - Handle any incorrect packages.
 
 ## 1.3 Scope
 The students are divided in client developers and server developers.
 
--   Client: the program must provide the ability to send and receive packets and view related messages.
+- Client: the program must provide the ability to send and receive packets and view related messages.
 Messages can be private, public or multicast. In addition, packages must be implemented to register, log in and log out. 
 Finally, a package must be provided to request a list of connected users.
 
--   Server: the program must check the correctness of the packets that arrive, and return one with the result of the verification. 
+- Server: the program must check the correctness of the packets that arrive, and return one with the result of the verification. 
 In addition, it must forward messages to its recipients.
 Finally, it must manage users who want to register, log in and log out.
 
@@ -46,8 +46,8 @@ There is no storage space for these messages.
 
 ## 2.2 User Characteristics
 Users can be divided in:
-- who manages the server, that is responsible for registering users, blocking them and checking packages.
-- clients, that have the same priority and can only send and receive messages and request information.
+- Who manages the server, that is responsible for registering users, blocking them and checking packages.
+- Clients, that have the same priority and can only send and receive messages and request information.
 
 ## 2.3 Mandated Constraints
 - The program must follow the protocol given to us.
@@ -89,20 +89,18 @@ Cost: none
 Risk: low
 Value: medium
 
-### 4.1.2 Use Case: Vote
-Actors: voters, supervisor.
+### 4.1.2 Use Case: Voting
+**Actors:** voters, supervisor.
 
-Description: This use case begins when there is a vote.
+**Description:** This use case begins when there is a democratic choice to be made.
 
-Basic Path:
-
+**Basic Path:**
 1. The supervisor checks that everything is working, even in terms of security.
-2. Voters are asked to cast their vote, via textual or graphical interface.
-3.   When everyone has voted, everything is checked for success and the votes are counted.
+2. Voters are asked to cast their vote via the client.
+3. Once everyone has voted, the votes are counted and a decision can be made.
 
-Alternative Path:
-
-If one of the points is not respected, the safety of the program must be checked.
+**Alternative Path:**
+If one of the steps fails, the security of the program must be checked.
 
 ### 4.1.3 Additional Requirements
 N/A
