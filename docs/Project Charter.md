@@ -1,4 +1,3 @@
-  
 # Project Title: Chat Protocol
 | | |
 | --- | --- |
@@ -38,3 +37,10 @@ Finally, (3) it must deal with the management of the users who want to register,
 
 ## Risks and Obstacles to Success
 A risk we could face is the lack of experience and skill some students could have programming an entire application, whether it be a client or a server. The lack of experience with threads could pose a challenge, as not many students were able to successfully develop a multithreading application in two years.
+
+## Project Priorities and degrees of freedom
+In the execution of the program, the elasticity that was given to us was a couple of weeks. When the two weeks were up there was the end of the delivery of the project in question. This is a purely educational project, so the work is paid for school hours without any budget to spend on the execution of this project. It is an immediate and simple software and maintenance is easily done through Python programming code
+
+## Approach
+The approach to program execution started with building a client and server via Socket with opening a connection between client and server. The professor has provided us with his own protocol standard and we have created our functions in Python from a ladder divided by steps to implement the chat protocol. Once the program was over, the professor resolved each of us' s doubts about some problems encountered during the implementation 
+
