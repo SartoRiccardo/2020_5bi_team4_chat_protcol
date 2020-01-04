@@ -1,5 +1,5 @@
 # Index
 
-+ [Project Charter](Project Charter.md)
++ [Project Charter](project_charter.md)
 + [Software Project Management Plan](software_project_management_plan.md)
-+ [Software Requirements Specification](Software Requirements Specification.md)
++ [Software Requirements Specification](software_requirements_specification.md)
