@@ -44,3 +44,11 @@ In the execution of the program, the elasticity that was given to us was a coupl
 ## Approach
 The approach to program execution started with building a client and server via Socket with opening a connection between client and server. The professor has provided us with his own protocol standard and we have created our functions in Python from a ladder divided by steps to implement the chat protocol. Once the program was over, the professor resolved each of us' s doubts about some problems encountered during the implementation 
 
+## Constraints
+The final solution must not depend on a specific programming language (Python and Java are recommended). Both on the server and client side it is advisable to create a graphical interface for better user interaction with the final product.|
+
+## Assumptions
+Customers through a graphical interface (client) can access a chat with other users through the server. Obviously to connect to the server, the customer must provide a user and password.  |
+
+## Success Criteria
+The project will be considered a success if a developer delivers a working client or server program.
