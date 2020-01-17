@@ -13,12 +13,14 @@ It gives students the possibility to write a program that emulates a real chat, 
 ## Goals and Objectives
 The overall goal is to create a sort of system where authorized students can communicate with each other in private or in groups.
 The program is expected to:
+
 - Provide a textual or graphical interface to communicate.
 - Send and control packets that respect the protocol.
 - Send and receive messages, view their content and provide general information about the chat, for example who is logged in.
 
 ## Schedule Information
 Our schedule is planned, as we already have a deadline to our project. The project has to last 3 lessons of 3 hours each, for a total of 9 hours, at the end of which each student has to have either a complete client or a server implementing the Chat Protocol.
+
 + *15/10/2019:* Project Explanation
 + *29/10/2019:* Project Submission
 
@@ -42,6 +44,7 @@ The project will be considered a success if a developer delivers a working clien
 
 ## Scope
 The students are divided between who will develop the client and who will develop the server.
+
 - **Client:** the program must provide the ability to 
   - Send and receive packets and view related messages. Messages can be private, public or multicast.
   - Register, log in and log out.
