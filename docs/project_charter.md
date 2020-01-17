@@ -45,14 +45,14 @@ The project will be considered a success if a developer delivers a working clien
 ## Scope
 The students are divided between who will develop the client and who will develop the server.
 
-- **Client:** the program must provide the ability to 
-  - Send and receive packets and view related messages. Messages can be private, public or multicast.
-  - Register, log in and log out.
-  - Request a list of connected users.
-- **Server:** the program must:
-  - Check the correctness of the packets that arrive, and return one with the result of the verification.
-  - Forward messages to its recipients.
-  - Manage the users who want to register, log in and log out.
++ **Client:** the program must provide the ability to 
+  * Send and receive packets and view related messages. Messages can be private, public or multicast.
+  * Register, log in and log out.
+  * Request a list of connected users.
++ **Server:** the program must:
+  * Check the correctness of the packets that arrive, and return one with the result of the verification.
+  * Forward messages to its recipients.
+  * Manage the users who want to register, log in and log out.
 
 ## Risks and Obstacles to Success
 A risk we could face is the lack of experience and skill some students could have programming an entire application, whether it be a client or a server. The lack of experience with threads could pose a challenge, as not many students were able to successfully develop a multithreading application in two years.
