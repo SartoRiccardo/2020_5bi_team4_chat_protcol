@@ -13,23 +13,23 @@ Team members:
 
 | Document                                                     | Ready              | Added on    |
 | ------------------------------------------------------------ | ------------------ | ----------- |
-| [Project Charter](project_charter.md)                        | :heavy_check_mark: | Jan 04 2020 |
-| [Business Model Canvas](pdf/business_model_canvas.pdf)       | :heavy_check_mark: | Jan 04 2020 |
-| [Software Requirements Specification](software_requirements_specification.md) | :heavy_check_mark: | Jan 04 2020 |
-| [Software Project Management Plan](software_project_management_plan.md) | :heavy_check_mark: | Jan 03 2020 |
-| [Project Model Canvas](pdf/project_model_canvas.pdf)         | :heavy_check_mark: | Jan 04 2020 |
+| [Project Charter](project_charter.md)                        | ✔️ | Jan 04 2020 |
+| [Business Model Canvas](pdf/business_model_canvas.pdf)       | ✔️ | Jan 04 2020 |
+| [Software Requirements Specification](software_requirements_specification.md) | ✔️ | Jan 04 2020 |
+| [Software Project Management Plan](software_project_management_plan.md) | ✔️ | Jan 03 2020 |
+| [Project Model Canvas](pdf/project_model_canvas.pdf)         | ✔️ | Jan 04 2020 |
 
 ## Documents (April)
 
 | Document                                                | Ready | Added on |
 | ------------------------------------------------------- | ----- | -------- |
-| [Project Success Criteria](project_success_criteria.md) | :x:   |          |
-| [Memo of Understanding](memo_of_understanding.md)       | :x:   |          |
-| [Iteration Plan](iteration_plan.md)                     | :x:   |          |
-| [Test Case Specification](test_case_specification.md)   | :x:   |          |
-| [System Requirements](system_requirements.md)           | :x:   |          |
-| [Test Plan](test_plan.md)                               | :x:   |          |
-| [User Guide](user_guide.md)                             | :x:   |          |
-| [Architecture and Design](architecture_and_design.md)   | :x:   |          |
-| [Coding Standards](coding_standards.md)                 | :x:   |          |
+| [Project Success Criteria](project_success_criteria.md) | ❌   |          |
+| [Memo of Understanding](memo_of_understanding.md)       | ❌   |          |
+| [Iteration Plan](iteration_plan.md)                     | ❌   |          |
+| [Test Case Specification](test_case_specification.md)   | ❌   |          |
+| [System Requirements](system_requirements.md)           | ❌   |          |
+| [Test Plan](test_plan.md)                               | ❌   |          |
+| [User Guide](user_guide.md)                             | ❌   |          |
+| [Architecture and Design](architecture_and_design.md)   | ❌   |          |
+| [Coding Standards](coding_standards.md)                 | ❌   |          |
 
