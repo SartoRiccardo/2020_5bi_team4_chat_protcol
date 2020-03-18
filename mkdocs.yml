@@ -1,6 +1,6 @@
 site_name: '5BI Team 4 (2019/20)'
 site_description: 'Documentation for GPI'
-repo_url: 'https://github.com/SartoRiccardo/pcto-anagrafe'
+repo_url: 'https://github.com/SartoRiccardo/2020_5bi_team4_chat_protocol'
 
 nav:
     - 'Project Charter': 'project_charter.md'
