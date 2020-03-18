@@ -2,19 +2,19 @@
 
 This project's frontend will be programmed in Javascript.
 
-### 1. Files
+## 1. Files
 
-##### 1.1. File Naming
+### 1.1. File Naming
 
 File names must be written in `camelCase`. If they contain a React component, they must use `UpperCamelCase`.
 
-##### 1.2. File Structure
+### 1.2. File Structure
 
 All React components must be in a folder called `components`. Redux states and action creators must be in a folder called `redux`. There may be multiple subfolders inside those two folders.
 
-### 2. Formatting
+## 2. Formatting
 
-##### 2.1. Braces
+### 2.1. Braces
 
 Curly braces must be used even if they are not necessary
 
@@ -31,7 +31,7 @@ if(condition) {doSomething();}
 if(condition) doSomething();
 ```
 
-##### 2.2. Statements
+### 2.2. Statements
 
 There can only be one statement per line. Statements can only have whitespace characters behind them.
 
@@ -52,11 +52,11 @@ if (condition) {
 }
 ```
 
-##### 2.3. Maximum line length
+### 2.3. Maximum line length
 
 A single line may only have up to 120 characters, counting whitespaces.
 
-##### 2.4. Line wrapping
+### 2.4. Line wrapping
 
 It is heavily encouraged to only wrap lines at a higher syntactic level.
 
@@ -70,7 +70,7 @@ const answer = (168
 		/ 4) * 2;
 ```
 
-##### 2.5. Ternary operator with parenthesis
+### 2.5. Ternary operator with parenthesis
 
 Should the ternary operator require parenthesis, the `:` symbol must be included in the same line as the first one closing and the second one opening. The line cannot consist of anything else.
 
@@ -89,17 +89,17 @@ const myComponent = someCondition ? (
 
 
 
-### 3. React
+## 3. React
 
-##### 3.1. Destructuring props and state
+### 3.1. Destructuring props and state
 
 Both props and state must be destructured before usage. If a key has the same name in both the props and the state, it cannot be destructured.
 
-##### 3.2. Initializing the state
+### 3.2. Initializing the state
 
 State must be initialized in the constructor.
 
-##### 3.3. Prop passing
+### 3.3. Prop passing
 
 Props must be properly indented when passed in multiple lines.
 
@@ -111,11 +111,11 @@ Props must be properly indented when passed in multiple lines.
 />
 ```
 
-##### 3.4. JSX
+### 3.4. JSX
 
 JSX code must always be in parenthesis
 
-##### 3.5 Dynamic JSX
+### 3.5 Dynamic JSX
 
 Components passed dynamically must first be stored in a variable, and the variable can then be passed.
 
@@ -161,9 +161,9 @@ return (
 );
 ```
 
-### 4. Objects and Arrays
+## 4. Objects and Arrays
 
-##### 4.1 Trailing commas
+### 4.1 Trailing commas
 
 The use of trailing commas is heavily encouraged.
 
@@ -174,21 +174,21 @@ const myArray = [
 ];
 ```
 
-##### 4.2 Mixing quoted and unquoted object keys
+### 4.2 Mixing quoted and unquoted object keys
 
 Objects should only have either quoted or unquoted keys constantly throughout the project.
 
-### 5. Naming & Declaring
+## 5. Naming & Declaring
 
-##### 5.1 Variables
+### 5.1 Variables
 
 Variables must be named using `camelCase`. Variables must not be abbreviated if unnecessary, and must be clearly understandable by anybody, even outside the project.
 
-##### 5.2 Usage of var
+### 5.2 Usage of var
 
 The usage of the `var` keyword is heavily discouraged. Use `let` and `const` instead, and declare the variables as needed to limit their scope.
 
-##### 5.3 Destructuring in functions
+### 5.3 Destructuring in functions
 
 Destructuring in functions is not allowed directly in the arguments. The arguments may only be destructured within the function.
 
@@ -205,13 +205,13 @@ function myFunction({someObject, someOtherProperty}) {
 }
 ```
 
-##### 5.4 Classes
+### 5.4 Classes
 
 Class names must be written in `UpperCamelCase`.
 
-### 6. JSDoc
+## 6. JSDoc
 
-##### 6.1 React props
+### 6.1 React props
 
 Component props must be documented using the `@param` option, and the prop name must always be preceded by `prop.`.
 
@@ -231,11 +231,11 @@ class MessageShower extends React.Component {
 }
 ```
 
-##### 6.2 Redux props
+### 6.2 Redux props
 
 Component props that originate from a Redux state may not be documented. Document the state itself instead.
 
-##### 6.3 Redux state
+### 6.3 Redux state
 
 The initial state of the Redux state must be properly documented. Use the `@prop` option for the keys.
 
