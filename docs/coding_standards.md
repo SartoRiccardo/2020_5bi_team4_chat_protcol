@@ -78,11 +78,11 @@ Should the ternary operator require parenthesis, the `:` symbol must be included
 /* YES */
 const myComponent = someCondition ? (
   <div>
-  	<p>This comes out if true</p>
+    <p>This comes out if true</p>
   </div>
 ) : (
   <div>
-  	<h1>This comes out if false</h1>
+    <h1>This comes out if false</h1>
   </div>
 );
 ```
@@ -105,9 +105,9 @@ Props must be properly indented when passed in multiple lines.
 
 ```jsx
 <MyComponent
-	firstProp={firstValue}
-	secondProp={secondValue}
-	thirdProp={thirdValue}
+  firstProp={firstValue}
+  secondProp={secondValue}
+  thirdProp={thirdValue}
 />
 ```
 
@@ -126,28 +126,28 @@ const percentage = document.getElementById("percentage-input-field").value;
 let body = null;
 if(percentage > 100) {
   body = (
-  	<p>That's not a valid value!</p>
+    <p>That's not a valid value!</p>
   );
 }
 else {
   body = (
-  	<React.Fragment>
-    	<h1>You have typed {percentage}%</h1>
+    <React.Fragment>
+      <h1>You have typed {percentage}%</h1>
       <p>That's a pretty good percentage!</p>
     </React.Fragment>
   );
 }
 
 return (
-	<div>
-  	{body}
+  <div>
+    {body}
   </div>
 );
 
 /* NO */
 return (
-	<div>
-  	{
+  <div>
+    {
       percentage > 100 ? (
         <p>That's not a valid value!</p>
       ) : (
@@ -225,7 +225,7 @@ class MessageShower extends React.Component {
   render() {
     const {message} = this.props;
     return (
-    	<p>{message}</p>
+      <p>{message}</p>
     );
   }
 }
