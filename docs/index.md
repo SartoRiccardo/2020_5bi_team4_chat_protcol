@@ -31,5 +31,5 @@ Team members:
 | [Test Plan](test_plan.md)                               | ❌   |          |
 | [User Guide](user_guide.md)                             | ❌   |          |
 | [Architecture and Design](architecture_and_design.md)   | ❌   |          |
-| [Coding Standards](coding_standards.md)                 | ❌   |          |
+| [Coding Standards](coding_standards.md)                 | ✔️   | Mar 20 2020 |
 
