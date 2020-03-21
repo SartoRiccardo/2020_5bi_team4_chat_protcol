@@ -89,7 +89,7 @@ ___
 |Test ID:|5.1|
 |--|--|
 |**Title:**|Adding companies|
-|**Feature:**|Add a company to the database|
+|**Feature:**|Add a company to the database.|
 |**Objective:**|Confirm that by entering the data of a new company, it appears in the list|
 |**Setup:**|A web server must be running, there must be a connection with the database and the"tutor mode" is required.|
 |**Test Data:**|Company information
@@ -108,7 +108,7 @@ ___
 |Test ID:|5.2|
 |--|--|
 |**Title:**|Removing companies|
-|**Feature:**|Remove a company from the database|
+|**Feature:**|Remove a company from the database.|
 |**Objective:**|Confirm that by deleting a company, it doesn't appear in the list anymore.|
 |**Setup:**|A web server must be running, there must be a connection with the database and the"tutor mode" is required.|
 |**Test Data:**|None|
@@ -120,7 +120,7 @@ ___
 |Test ID:|5.3|
 |--|--|
 |**Title:**|Modifying companies|
-|**Feature:**|Modify a company in the database|
+|**Feature:**|Modify a company in the database.|
 |**Objective:**|Confirm that by modifying a company, changes appear in the list.|
 |**Setup:**|A web server must be running, there must be a connection with the database and the"tutor mode" is required.|
 |**Test Data:**|Province: Firenze|
