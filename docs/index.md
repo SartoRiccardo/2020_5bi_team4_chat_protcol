@@ -26,7 +26,7 @@ Team members:
 | [Project Success Criteria](project_success_criteria.md) | ❌   |          |
 | [Memo of Understanding](memo_of_understanding.md)       | ❌   |          |
 | [Iteration Plan](iteration_plan.md)                     | ❌   |          |
-| [Test Case Specification](test_case_specification.md)   | ❌   |          |
+| [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
 | [System Requirements](system_requirements.md)           | ❌   |          |
 | [Test Plan](test_plan.md)                               | ❌   |          |
 | [User Guide](user_guide.md)                             | ❌   |          |

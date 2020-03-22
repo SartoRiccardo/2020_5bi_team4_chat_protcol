@@ -10,6 +10,7 @@ nav:
         - Software Project Management Plan: software_project_management_plan.md
         - Project Model Canvas: pdf/project_model_canvas.pdf
     - April:
+        - Test Case Specification: test_case_specification.md
         - Coding Standards: coding_standards.md
     
 theme:
