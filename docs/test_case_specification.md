@@ -88,7 +88,7 @@ Login information:
 
 You remain on the login page and you are informed that your login credentials are incorrect.
 
-## 3. Test Cases: Filtering of companies
+## 3. Test Cases: Filtering companies
 
 ### Test ID: 3.1
 
