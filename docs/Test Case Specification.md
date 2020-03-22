@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This document provides the test cases to be carried out for the PCTO Application.  Each part to be tested is represented by an individual test case.  Each case details the input and expected outputs.
+This document provides the test cases to be carried out for the PCTO Application. Each part to be tested is represented by an individual test case. Each case details the input and expected outputs.
 
 ## 2. Test Cases: Login
 
@@ -11,14 +11,15 @@ This document provides the test cases to be carried out for the PCTO Application
 | Field         |Description|
 |--|--|
 |**Title**|Correct login as student|
-|**Feature**|Login to use the application as student.|
-|**Objective**|Confirm that proper user and password yields access to the website as expected.|
+|**Feature**|Log in to use the application as student.|
+|**Objective**|Confirm that proper username and password yield access to the website as expected.|
 |**Setup**|A web server must be running.|
+
 #### Test Data
 
 Login information:
 
-+ User: *Username existing on Spaggiari*
++ Username: *Username existing on Spaggiari*
 + Password: *Password associated with that user*
 
 #### Test Actions
@@ -29,7 +30,7 @@ Login information:
 
 #### Expected Results
 
-You access a page that offers the possibility to search for companies in the database, also by applying filters, or to log out.
+You access a page that offers the possibility to search for companies in the database, apply filters, or log out.
 
 ---
 
@@ -38,14 +39,15 @@ You access a page that offers the possibility to search for companies in the dat
 |Field|Description|
 |--|--|
 |**Title**|Correct login as tutor|
-|**Feature**|Login to use the application as tutor.|
-|**Objective**|Confirm that proper user and password yields access to the website as expected.|
+|**Feature**|Log in to use the application as tutor.|
+|**Objective**|Confirm that proper username and password yield access to the website as expected.|
 |**Setup**|A web server must be running.|
+
 #### Test Data
 
 Login information:
 
-+ User: *Username existing on Spaggiari*
++ Username: *Username existing on Spaggiari*
 + Password: *Password associated with that user*
 
 #### Test Actions
@@ -56,7 +58,7 @@ Login information:
 
 #### Expected Results
 
-You access a page that offers the possibility to search for companies in the database, also by applying filters, to change them or to log out.
+You access a page that offers the possibility to search for companies in the database, apply filters, change them or log out.
 
 ---
 
@@ -65,14 +67,15 @@ You access a page that offers the possibility to search for companies in the dat
 | Field         |Description|
 |--|--|
 |**Title**|Incorrect password|
-|**Feature**|Login to use the application.|
-|**Objective**|Confirm that valid user with an invalid password denies access to the website without leaving the user stranded.|
+|**Feature**|Log in to use the application.|
+|**Objective**|Confirm that a valid username with an invalid password denies access to the website without leaving the user stranded.|
 |**Setup**|A web server must be running.|
+
 #### Test Data
 
 Login information:
 
-+ User: *Username existing on Spaggiari*
++ Username: *Username existing on Spaggiari*
 + Password: password1234
 
 #### Test Actions
@@ -91,10 +94,11 @@ You remain on the login page and you are informed that your login credentials ar
 
 | Field          |Description|
 |--|--|
-|**Title:**|Adding correct filters|
-|**Feature:**|Add filters to search for specific companies.|
-|**Objective:**|Confirm that the use of filters reduces the number of companies displayed.|
-|**Setup:**|A web server must be running and there must be a connection with the database.|
+|**Title**|Adding correct filters|
+|**Feature**|Add filters to search for specific companies.|
+|**Objective**|Confirm that the use of filters reduces the number of companies displayed.|
+|**Setup**|A web server must be running and there must be a connection to the database.|
+
 #### Test Data
 
 Filters applied:
@@ -104,11 +108,11 @@ Filters applied:
 
 #### Test Actions
 
-1. Add the filters in the space provided
+1. Add the filters in the provided space
 
 #### Expected Results
 
-All the companies present in Verona, in the municipality of San Giovanni Lupatoto, should be displayed.
+All the companies present in Verona, in the municipality of San Giovanni Lupatoto, will be displayed.
 
 ---
 
@@ -119,7 +123,8 @@ All the companies present in Verona, in the municipality of San Giovanni Lupatot
 |**Title**|Adding inexistent filters|
 |**Feature**|Add filters to search for specific companies.|
 |**Objective**|Confirm that using inexistent filters does not return any results.|
-|**Setup**|A web server must be running and there must be a connection with the database.|
+|**Setup**|A web server must be running and there must be a connection to the database.|
+
 #### Test Data
 
 Filters applied:
@@ -128,11 +133,11 @@ Filters applied:
 
 #### Test Actions
 
-1. Add the filters in the space provided
+1. Add the filters in the provided space
 
 #### Expected Results
 
-No company should be displayed.
+No company will be displayed.
 
 ## 4. Test Cases: Company information
 
@@ -143,7 +148,8 @@ No company should be displayed.
 |**Title**|View company information|
 |**Feature**|View more information about a particular company.|
 |**Objective**|Confirm that clicking on a company displays additional information about it.|
-|**Setup**|A web server must be running and there must be a connection with the database.|
+|**Setup**|A web server must be running and there must be a connection to the database.|
+
 #### Test Data
 
 N/A
@@ -154,7 +160,7 @@ N/A
 
 #### Expected Results
 
-A page containing more information on the chosen company should be displayed.
+A page containing more information about the chosen company will be displayed.
 
 ## 5. Test Cases: Modify companies
 
@@ -165,7 +171,8 @@ A page containing more information on the chosen company should be displayed.
 |**Title**|Adding companies|
 |**Feature**|Add a company to the database.|
 |**Objective**|Confirm that by entering the data of a new company, it appears in the list|
-|**Setup**|A web server must be running, there must be a connection with the database and the"tutor mode" is required.|
+|**Setup**|A web server must be running and there must be a connection to the database. "Tutor mode" is required.|
+
 #### Test Data
 
 Company information:
@@ -186,7 +193,7 @@ Company information:
 
 #### Expected Results
 
-The company should appear on the list.
+The company will appear on the list.
 
 ---
 
@@ -197,7 +204,8 @@ The company should appear on the list.
 |**Title**|Removing companies|
 |**Feature**|Remove a company from the database.|
 |**Objective**|Confirm that by deleting a company, it doesn't appear in the list anymore.|
-|**Setup**|A web server must be running, there must be a connection with the database and the "tutor mode" is required.|
+|**Setup**|A web server must be running and there must be a connection to the database. "Tutor mode" is required.|
+
 #### Test Data
 
 N/A
@@ -210,7 +218,7 @@ N/A
 
 #### Expected Results
 
-The company shouldn't appear on the list anymore.
+The company will not appear on the list anymore.
 
 ---
 
@@ -220,8 +228,9 @@ The company shouldn't appear on the list anymore.
 |--|--|
 |**Title**|Modifying companies|
 |**Feature**|Modify a company in the database.|
-|**Objective**|Confirm that by modifying a company, changes appear in the list.|
-|**Setup**|A web server must be running, there must be a connection with the database and the "tutor mode" is required.|
+|**Objective**|Confirm that, by modifying a company, the changes appear in the list.|
+|**Setup**|A web server must be running and there must be a connection to the database. "Tutor mode" is required.|
+
 #### Test Data
 
 + Province: Firenze
@@ -235,4 +244,4 @@ The company shouldn't appear on the list anymore.
 
 #### Expected Results
 
-The changes should appear on the list.
+The changes will appear on the list.
