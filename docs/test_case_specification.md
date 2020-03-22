@@ -18,6 +18,7 @@ This document provides the test cases to be carried out for the PCTO Application
 #### Test Data
 
 Login information:
+
 + Username: *Username existing on Spaggiari*
 + Password: *Password associated with that user*
 
@@ -45,6 +46,7 @@ You access a page that offers the possibility to search for companies in the dat
 #### Test Data
 
 Login information:
+
 + Username: *Username existing on Spaggiari*
 + Password: *Password associated with that user*
 
@@ -72,6 +74,7 @@ You access a page that offers the possibility to search for companies in the dat
 #### Test Data
 
 Login information:
+
 + Username: *Username existing on Spaggiari*
 + Password: password1234
 
@@ -99,6 +102,7 @@ You remain on the login page and you are informed that your login credentials ar
 #### Test Data
 
 Filters applied:
+
 + Province: Verona
 + District: San Giovanni Lupatoto
 
@@ -124,6 +128,7 @@ All the companies present in Verona, in the municipality of San Giovanni Lupatot
 #### Test Data
 
 Filters applied:
+
 + Province: Zevio
 
 #### Test Actions
@@ -171,6 +176,7 @@ A page containing more information about the chosen company will be displayed.
 #### Test Data
 
 Company information:
+
 + Type: Azienda
 + Name: Prova SRL
 + Province: Verona
