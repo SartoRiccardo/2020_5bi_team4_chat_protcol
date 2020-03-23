@@ -23,7 +23,7 @@ Team members:
 
 | Document                                                | Ready | Added on |
 | ------------------------------------------------------- | ----- | -------- |
-| [Project Success Criteria](project_success_criteria.md) | ❌   |          |
+| [Project Success Criteria](project_success_criteria.md) | ✔️ | Mar 23 2020 |
 | [Memo of Understanding](memo_of_understanding.md)       | ❌   |          |
 | [Iteration Plan](iteration_plan.md)                     | ❌   |          |
 | [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
