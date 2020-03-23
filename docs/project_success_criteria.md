@@ -2,6 +2,8 @@
 
 ## Criteria
 
+The project will be considered a success if...
+
 ### A fully functional test system is delivered on or before May 31th
 The website shall be ready to use and it will be presented in front of the class during a computer science lesson. We will consider these goals met if the professors give the website demo a positive note.
 
