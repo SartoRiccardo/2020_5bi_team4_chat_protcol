@@ -2,7 +2,7 @@
 
 ## Criteria
 
-### A fully functional test system is delivered on or before May 31th.
+### A fully functional test system is delivered on or before May 31th
 The website shall be ready to use and the users shall be given the training they need in order to begin using the website.
 We will consider both of these goals met, if the users who plan to use the website during its test period fill out the attached Acceptance Test User Survey and:
 
@@ -18,24 +18,24 @@ The changes will be managed in this way:
 + Changes taking 10 hours or less will take 1 weeks to fix
 
 
-### Teachers that are PCTO tutors, students and PCTO managers can easily log into the system with Classe Viva credentials.
+### Teachers that are PCTO tutors, students and PCTO managers can easily log into the system with Classe Viva credentials
 Each of them shall have different permissions.
 PCTO mangers will be able to add new companies, update the ones already stored and remove or authorize a reservation. Students will only be able to see the companies and choose one of them. PCTO tutors will be able to reserve companies for the students.
 
-### The PCTO supervisor can edit the data and reservations.
+### The PCTO supervisor can edit the data and reservations
 Specifically the PCTO supervisor, after logging in, will be able to update and add new companies to the database and remove or authorize the reservations.
 
-### The PCTO supervisor can create and edit the companies.
+### The PCTO supervisor can create and edit the companies
 The PCTO supervisor, after logging in, will be able to update and add new companies to the database.
 
-### The production database is updated.
+### The production database is updated
 Data from the existing PCTO database shall be uploaded to the new system. Data from all fields in the existing database shall be migrated to corresponding fields in the new database.
 
 ### Data on PCTO database is available for download
 The PCTO supervisor shall be able to download data from the database through the website as a CSV file.
 
 
-### The System is properly documented.
+### The System is properly documented
 Firstly, a user manual shall be produced and included. This shall be easily understood by people who don't know the website or the data on the database.
 This manual shall explain how to use all features of the website based on the permissions. For example for the PCTO tutors this guide shall explain how a tutor can reserve a company for a student.
 Instead for PCTO supervisors this guide shall explain how use the the whole website.
