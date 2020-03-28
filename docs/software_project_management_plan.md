@@ -123,6 +123,7 @@ The project has no budget.
 ## 4.1 Monitoring and Control
 
 Broad milestones were set for this plan:
+
 1. **15/10/2019:** Explanation of the protocol to implement.
 2. Weekly reports to check progress.
 3. **29/10/2019:** Project submission.

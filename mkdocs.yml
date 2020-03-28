@@ -1,0 +1,19 @@
+site_name: '5BI Team 4 (2019/20)'
+site_description: 'Documentation for GPI'
+repo_url: https://github.com/SartoRiccardo/2020_5bi_team4_chat_protocol
+
+nav:
+    - December:
+        - Project Charter: project_charter.md
+        - Business Model Canvas: pdf/business_model_canvas.pdf
+        - Software Requirements Specification: software_requirements_specification.md
+        - Software Project Management Plan: software_project_management_plan.md
+        - Project Model Canvas: pdf/project_model_canvas.pdf
+    - April:
+        - Project Success Criteria: project_success_criteria.md
+        - Test Case Specification: test_case_specification.md
+        - Coding Standards: coding_standards.md
+    
+theme:
+    name: readthedocs
+    highlightjs: true

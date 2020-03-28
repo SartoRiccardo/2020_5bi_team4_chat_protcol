@@ -1,4 +1,35 @@
-# Chat Protocol Documentation
+# 5BI Team 4 Project Documentation
 
-+ [Project Charter](Project Charter.md)
-+ [Software Project Management Plan](software_project_management_plan.md)
+These documents are made to practice documenting a project. The documents may have contraddicting information, and they might even talk about different projects, but the purpose is to learn how to document properly.
+
+Team members:
+
++ Riccardo Sartori
++ Damiano Ghisellini
++ Andrea Mafficini
++ Davide Bianchini
+
+## Documents (December)
+
+| Document                                                     | Ready              | Added on    |
+| ------------------------------------------------------------ | ------------------ | ----------- |
+| [Project Charter](project_charter.md)                        | ✔️ | Jan 04 2020 |
+| [Business Model Canvas](pdf/business_model_canvas.pdf)       | ✔️ | Jan 04 2020 |
+| [Software Requirements Specification](software_requirements_specification.md) | ✔️ | Jan 04 2020 |
+| [Software Project Management Plan](software_project_management_plan.md) | ✔️ | Jan 03 2020 |
+| [Project Model Canvas](pdf/project_model_canvas.pdf)         | ✔️ | Jan 04 2020 |
+
+## Documents (April)
+
+| Document                                                | Ready | Added on |
+| ------------------------------------------------------- | ----- | -------- |
+| [Project Success Criteria](project_success_criteria.md) | ✔️ | Mar 23 2020 |
+| [Memo of Understanding](memo_of_understanding.md)       | ❌   |          |
+| [Iteration Plan](iteration_plan.md)                     | ❌   |          |
+| [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
+| [System Requirements](system_requirements.md)           | ❌   |          |
+| [Test Plan](test_plan.md)                               | ❌   |          |
+| [User Guide](user_guide.md)                             | ❌   |          |
+| [Architecture and Design](architecture_and_design.md)   | ❌   |          |
+| [Coding Standards](coding_standards.md)                 | ✔️   | Mar 20 2020 |
+
