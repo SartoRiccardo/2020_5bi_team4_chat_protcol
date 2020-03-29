@@ -2,6 +2,8 @@
 
 These documents are made to practice documenting a project. The documents may have contraddicting information, and they might even talk about different projects, but the purpose is to learn how to document properly.
 
+At the bottom of each Markdown document you have the option to see and download it as a PDF file.
+
 Team members:
 
 + Riccardo Sartori

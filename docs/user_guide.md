@@ -112,3 +112,7 @@ To add privileges to a new user, insert their ID in the input field below, and t
 ![User info](img/user_guide/user_info.jpg)
 
 Once the user was added, click the privileges you want to give them. Grante privileges will be have a dark orange background.
+
+---
+
+Download this document as [PDF](pdf/user_guide.pdf)
