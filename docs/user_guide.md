@@ -105,7 +105,7 @@ The page allows the deletion, modification or creation of new activities.
 
 When new teacher wants to become a tutor, they must be granted the privileges they need to the site. The privilege page allows that to happen. This page can only be accessed by a single admin user.
 
-![Privilege page](/Users/riccardosartori/Desktop/Altro/Study/2020_5bi_team4_chat_protocol/docs/img/user_guide/privilege_page.jpg)
+![Privilege page](img/user_guide/privilege_page.jpg)
 
 To add privileges to a new user, insert their ID in the input field below, and then press the plus button. The corresponding user's name will appear below to confirm that it's the correct one. To get your own ID, simply click the small user button in the top-right of the screen.
 
