@@ -12,6 +12,7 @@ nav:
     - April:
         - Project Success Criteria: project_success_criteria.md
         - Test Case Specification: test_case_specification.md
+        - User Guide: user_guide.md
         - Coding Standards: coding_standards.md
     
 theme:
