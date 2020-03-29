@@ -29,7 +29,7 @@ Team members:
 | [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
 | [System Requirements](system_requirements.md)           | ❌   |          |
 | [Test Plan](test_plan.md)                               | ❌   |          |
-| [User Guide](user_guide.md)                             | ❌   |          |
+| [User Guide](user_guide.md)                             | ✔️ | Mar 29 2020 |
 | [Architecture and Design](architecture_and_design.md)   | ❌   |          |
 | [Coding Standards](coding_standards.md)                 | ✔️   | Mar 20 2020 |
 
