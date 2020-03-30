@@ -164,3 +164,7 @@ The following points assume a server application is present and functioning corr
 The following points assuming a client application is present and functioning correctly.
 1. The server must be able to accept connections from multiple hosts at the same time.
 2. The server must be able to receive data from remote connections, correctly interpret them and act as needed, following the protocol.
+
+---
+
+Download this document as [PDF](pdf/software_project_management_plan.pdf)

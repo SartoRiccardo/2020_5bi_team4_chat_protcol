@@ -56,3 +56,7 @@ The students are divided between who will develop the client and who will develo
 
 ## Risks and Obstacles to Success
 A risk we could face is the lack of experience and skill some students could have programming an entire application, whether it be a client or a server. The lack of experience with threads could pose a challenge, as not many students were able to successfully develop a multithreading application in two years.
+
+---
+
+Download this document as [PDF](pdf/project_charter.pdf)
