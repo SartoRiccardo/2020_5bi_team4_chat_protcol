@@ -1,21 +1,27 @@
-﻿# Relase plan
+# Relase plan
 ## Relase Summary
+
 ### Initiation
-Interview (01/2020): request to the tutor what he needed
+
++ **Interview (01/2020):** request to the tutor what he needed
+
 ### Elaboration
-Documentation (02/2020): documentation on the progress of the project
-Database (02/2020): design the database with its tables
-ETL (02/2020): data extraction from csv to database
-Login (02/2020): study how Classeviva login works
++ **Documentation (02/2020):** documentation on the progress of the project
++ **Database (02/2020):** design the database with its tables
++ **ETL (02/2020):** data extraction from csv to database
++ **Login (02/2020):** study how Classeviva login works
+
 ### Construction
-(04/2020)
-Login: build a login page or find a taplate
-Request: process the login parameters
-User page: build a view-only page
-Tutor page: build an editable page for the tutor
-Information page: page with specific information about a company
+
++ **Login (04/2020):** build a login page or find a taplate
++ **Request (04/2020):** process the login parameters
++ **User page (04/2020):** build a view-only page
++ **Tutor page (04/2020):** build an editable page for the tutor
++ **Information page (04/2020):** page with specific information about a company
+
 ### Conclusion
-Connection (04/2020): correct links to the common user and login tutor page
++ **Connection (04/2020):** correct links to the common user and login tutor page
+
 ## Effort
 ### Initiation
 | Activities | Actual Effort |
@@ -37,7 +43,7 @@ Connection (04/2020): correct links to the common user and login tutor page
 | Construction of the tutor page with the possibility to modify, create and delete the parameters of a row with an editable table | 10 hrs |
 | Construction of a company information page through a parameter passed from the user page where each company will be a link that leads precisely to this page | 5 hrs |
 ### Conclusion
-| Activities | Actual Effort | 
+| Activities | Actual Effort |
 |--|--|
-| Have user control to understand if it is a common user who wants to log in or a tutor. The modified code will be that of the request which, through an array, checks whether it is a student or a teacher | 30 mnt | 
+| Have user control to understand if it is a common user who wants to log in or a tutor. The modified code will be that of the request which, through an array, checks whether it is a student or a teacher | 30 mnt |
 
