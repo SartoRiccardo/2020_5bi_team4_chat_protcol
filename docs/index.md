@@ -25,14 +25,14 @@ Team members:
 
 | Document                                                | Ready | Added on |
 | ------------------------------------------------------- | ----- | -------- |
-| [Project Success Criteria](project_success_criteria.md) | ✔️ | Mar 23 2020 |
-| [Memo of Understanding](memo_of_understanding.md)       | ❌   |          |
+| [Release Plan](release_plan.md) | ✔️ | Apr 01 2020 |
 | [Iteration Plan](iteration_plan.md)                     | ✔️ | Mar 30 2020 |
-| [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
-| [System Requirements](system_requirements.md)           | ❌   |          |
-| [Test Plan](test_plan.md)                               | ❌   |          |
-| [User Guide](user_guide.md)                             | ✔️ | Mar 29 2020 |
+| [Memo of Understanding](memo_of_understanding.md)       | ❌   |          |
+| [Project Success Criteria](project_success_criteria.md) | ✔️ | Mar 23 2020 |
 | [Architecture and Design](architecture_and_design.md)   | ❌   |          |
 | [Coding Standards](coding_standards.md)                 | ✔️   | Mar 20 2020 |
-| [Release Plan](release_plan.md) | ✔️ | Apr 01 2020 |
+| [Test Plan](test_plan.md)                               | ❌   |          |
+| [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
+| [User Guide](user_guide.md)                             | ✔️ | Mar 29 2020 |
+| [System Requirements](system_requirements.md)           | ❌   |          |
 
