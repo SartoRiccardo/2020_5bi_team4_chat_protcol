@@ -47,3 +47,6 @@
 |--|--|
 | Have a user control system to understand if it is a common user who wants to log in or a tutor. The modified code will be that of the request which, through an array, will check whether it is a student or a teacher | 30 mnt |
 
+---
+
+Download this document as [PDF](pdf/release_plan.pdf)
