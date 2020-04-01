@@ -254,4 +254,4 @@ const init = {
 
 ---
 
-Download this document as [PDF](pdf/coding_standard.pdf)
+Download this document as [PDF](pdf/coding_standards.pdf)
