@@ -27,6 +27,7 @@
 | Activities | Actual Effort |
 |--|--|
 | The project begins with interviews with the PCTO tutor for the required features | 3 hrs |
+
 ### Elaboration
 | Activities | Actual Effort |
 |--|--|
@@ -34,6 +35,7 @@
 | Designing of tables in the database for data models with PhpMyAdmin | 2 hrs |
 | Creation in Python of the code for the ETL process, which allows you to take the data from a CSV file and export it correctly to the database | 10 hrs |
 | After being given the PHP snippet of the Classeviva login, study it to modify it for our application | 1 hr |
+
 ### Construction
 | Activities | Actual Effort |
 |--|--|
@@ -42,6 +44,7 @@
 | Construction of the user page with the possibility of displaying the companies through a filtered table, with an extra page with all the information of a company once you select it | 10 hrs |
 | Construction of the tutor page with the possibility to modify, create and delete the parameters of a row with an editable table | 10 hrs |
 | Construction of a company information page through a parameter passed from the user page, where each company will have a link that leads precisely to this page | 5 hrs |
+
 ### Conclusion
 | Activities | Actual Effort |
 |--|--|
