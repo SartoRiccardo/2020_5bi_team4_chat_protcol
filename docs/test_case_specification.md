@@ -245,3 +245,7 @@ The company will not appear on the list anymore.
 #### Expected Results
 
 The changes will appear on the list.
+
+---
+
+Download this document as [PDF](pdf/test_case_specification.pdf)

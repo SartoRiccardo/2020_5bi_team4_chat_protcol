@@ -40,3 +40,7 @@ Instead for PCTO supervisors this guide shall explain how use the the whole webs
 
 Secondly, a website manual shall be produced. This websites manual shall consist of the architecture documentation where every information about the system is written.
 A single read through of this document and no more than 2 hours looking at the code should provide an appropriately skilled technician with all the information necessary to understand the system and make simple changes such as modifying the aesthetic of the website or the database.
+
+---
+
+Download this document as [PDF](pdf/project_success_criteria.pdf)
