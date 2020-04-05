@@ -79,3 +79,7 @@ The application has the following cases:
   + Tutor goes on a company's details page
   + Tutor changes, adds or deletes a field or an internship
   + Tutor may log out or proceed modifying
+
+---
+
+Download this document as [PDF](pdf/architecture_and_design.pdf)
