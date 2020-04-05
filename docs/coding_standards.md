@@ -252,3 +252,6 @@ const init = {
 };
 ```
 
+---
+
+Download this document as [PDF](pdf/coding_standards.pdf)
