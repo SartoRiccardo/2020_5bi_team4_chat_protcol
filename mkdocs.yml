@@ -13,6 +13,7 @@ nav:
         - Release Plan: release_plan.md
         - Iteration Plan: iteration_plan.md
         - Project Success Criteria: project_success_criteria.md
+        - Architecture and Design: architecture_and_design.md
         - Coding Standards: coding_standards.md
         - Test Case Specification: test_case_specification.md
         - User Guide: user_guide.md
