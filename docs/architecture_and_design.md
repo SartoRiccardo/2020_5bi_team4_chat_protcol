@@ -70,15 +70,15 @@ This application uses no physical components, it can all be deployed on a platfo
 The application has the following cases:
 
 + **Search:**
-  + Student logs in
-  + Student applies filters to the companies
-  + Student may save companies
-  + Student logs out, or session runs out
+    + Student logs in
+    + Student applies filters to the companies
+    + Student may save companies
+    + Student logs out, or session runs out
 + **Modify company:**
-  + Tutor logs in
-  + Tutor goes on a company's details page
-  + Tutor changes, adds or deletes a field or an internship
-  + Tutor may log out or proceed modifying
+    + Tutor logs in
+    + Tutor goes on a company's details page
+    + Tutor changes, adds or deletes a field or an internship
+    + Tutor may log out or proceed modifying
 
 ---
 
