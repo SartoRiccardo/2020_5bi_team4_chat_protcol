@@ -10,12 +10,12 @@ An internet connection, a web server and a database connection are required to m
 A platform consisting of HTTP server is XAMPP.
 
 1. Download XAMPP
-1.1 Go to [this website](https://www.apachefriends.org/it/)
-1.2 Download the correct version
+	1.1 Go to [this website](https://www.apachefriends.org/it/)
+	1.2 Download the correct version
 
 2. Activate XAMPP
-2.1 Run xampp-control.exe
-2.2 Click on "Start" on Apache and MySQL
+	2.1 Run xampp-control.exe
+	2.2 Click on "Start" on Apache and MySQL
 
 ## 3. Access Application code
 
