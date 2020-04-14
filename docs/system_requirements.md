@@ -1,4 +1,4 @@
-# System Requirements Documentation
+# System Requirements
 
 ## 1. Introduction
 

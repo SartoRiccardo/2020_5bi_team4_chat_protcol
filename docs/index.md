@@ -31,8 +31,8 @@ Team members:
 | [Project Success Criteria](project_success_criteria.md) | ✔️ | Mar 23 2020 |
 | [Architecture and Design](architecture_and_design.md)   | ✔️   | Apr 05 2020 |
 | [Coding Standards](coding_standards.md)                 | ✔️   | Mar 20 2020 |
-| [Test Plan](test_plan.md)                               | ❌   |          |
+| [Test Plan](test_plan.md)                               | ✔️   | Apr 14 2020 |
 | [Test Case Specification](test_case_specification.md)   | ✔️   | Mar 22 2020 |
 | [User Guide](user_guide.md)                             | ✔️ | Mar 29 2020 |
-| [System Requirements](system_requirements.md)           | ❌   |          |
+| [System Requirements](system_requirements.md)           | ✔️   | Apr 14 2020 |
 
