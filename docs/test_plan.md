@@ -25,3 +25,7 @@ In the Test Case Specification: 5.1 - 5.2 - 5.3
 ## 4. Item Pass/Fail Criteria
 
 The functions are simple and intuitive, so to consider them functional it will be sufficient that each of them meets expectations. Essential features that cause problems or don't work should be reviewed and corrected before proceeding. The additional non-functional features must be corrected in a short time and only if they do not interfere with the progress of the project.
+
+---
+
+Download this document as [PDF](pdf/test_plan.pdf)

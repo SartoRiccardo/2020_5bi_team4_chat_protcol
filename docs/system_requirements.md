@@ -47,3 +47,7 @@ There is a file for each section. There is a section for:
 On first launch, the application displays the login screen. Once the user is logged in, the view switches to the company table, which is displayed in the center of the screen. There is also a search bar at the top of the page. The logout button is located on the right and destroys all of the data associated with the current session.
 
 The connection to the database allows you to view the companies, their information and modify them, also changing the corresponding row.
+
+---
+
+Download this document as [PDF](pdf/software_requirements.pdf)
