@@ -50,4 +50,4 @@ The connection to the database allows you to view the companies, their informati
 
 ---
 
-Download this document as [PDF](pdf/software_requirements.pdf)
+Download this document as [PDF](pdf/system_requirements.pdf)
