@@ -19,6 +19,7 @@ nav:
         - Test Case Specification: test_case_specification.md
         - User Guide: user_guide.md
         - System Requirements: system_requirements.md
+        - Data Processing Agreement: data_processing_agreement.md
     
 theme:
     name: readthedocs
