@@ -10,12 +10,12 @@ Pursuant to Art. 28 General Data Protection Regulation (GDPR) between
 1. The subject matter of the DPA and the thereto related processing activities result from the main contract signed by the parties on 02/02/2020.
 2. The term of this DPA corresponds to the term of the main contract.
 3. The categories of personal data processed are:
-   1. key personal data
-   2. customer history
+	+ key personal data
+	+ customer history
 4. The personal data collected and processed related to:
-   1. customers
-   2. employees, collaborators
-   3. processors
+	+ customers
+	+ employees, collaborators
+	+ processors
 
 ## 2. Processing within the EU and EEA
 
@@ -52,13 +52,13 @@ Possible legal bases for transfer pursuant to the GDPR include:
 
 In addition to complying with the provisions of this DPA, the Processor commits to meet all applicable statutory requirements set forth at Articles 28 to 33 GDPR. Therefore, the Processor ensures, in particular, compliance with the following requirements:
 
-+ **Appointment of a Data Protection Officer (DPO)**
++ **Appointment of a Data Protection Officer (DPO):**
   The Processor is not required to appoint a Data Protection Officer. Mr Valenza is designated as the Contact Person on behalf of the Processor.
-+ **Confidentiality**
++ **Confidentiality:**
   Processing activities under this DPA shall only be performed by such employees or collaborators and agents that have been instructed by the Processor about the appropriate dealing with personal data and have been contractually subjected to confidentiality pursuant to art. 28 par. 3 (b) and art. 32 GDPR. The Processor and any person acting under its authority who has access to personal data, shall not process that data unless upon instructions by the Controller, including the powers granted under this DPA, unless they are required to do so by statutory law. 
-+ **Technical and Organizational Measures**
++ **Technical and Organizational Measures:**
   Implementation of and compliance with all appropriate Technical and Organizational Measures in the framework of this DPA, in particular as set forth at art. 32 GDPR. The Processor shall periodically monitor the internal processes and the technical and organizational measures o ensure that processing within its area of responsibility is in accordance with the requirements of applicable data protection law and the protection of data subjects' rights. The Processor shall grant verifiability of the technical and organizational measures to the Controller as part of the Controller’s supervisory powers referred to in sec. 7 of this contract.
-+ **Cooperation with Supervisory Authorities**
++ **Cooperation with Supervisory Authorities:**
   The Controller and the Processor shall cooperate, on request, with the supervisory authority. The Controller shall be informed immediately of any inspections and measures executed by the supervisory authority, insofar as they relate to the activities under this DPA. This also applies insofar as the Processor is under investigation or is party to an investigation by a competent authority in connection with infringements to any provision regarding the processing of personal data in connection with the processing of this DPA. Insofar as the Controller is subject to an inspection by the supervisory authority, an administrative fine, a preliminary injunction or criminal procedure, a liability claim by a Data Subject or by a third party or any other claim in connection with the processing of data by the Processor as of this DPA, the Processor shall make every effort to support the Controller.
 
 ## 6. Subcontracting
@@ -78,19 +78,19 @@ In addition to complying with the provisions of this DPA, the Processor commits 
 1. Upon consultation with the Processor, the Controller has the right to carry out inspections or to have them carried out by an auditor to be designated on a case-by-case basis. The auditor shall have the right to assess the Processor's compliance with this DPA in his business operations by means of random checks, which are ordinarily to be announced in advance.
 2. The Processor shall allow the Controller to verify compliance with its obligations as provided by Article 28 GDPR. The Processor undertakes to give the Controller the necessary information on request and, in particular, to demonstrate the implementation of the technical and organizational measures.
 3. Evidence of such measures, which may not only concern the activities under this DPA, may also be provided by
-   1. compliance with approved Codes of Conduct pursuant to Article 40 GDPR;
-   2. certification according to an approved certification procedure in accordance with Article 42 GDPR;
-   3. current auditor’s certificates, reports or excerpts from reports provided by independent bodies (e.g. auditor, data protection officer, IT security department, data protection auditor)
-   4. a suitable certification by IT security or data protection auditing
+	+ compliance with approved Codes of Conduct pursuant to Article 40 GDPR;
+	+ certification according to an approved certification procedure in accordance with Article 42 GDPR;
+	+ current auditor’s certificates, reports or excerpts from reports provided by independent bodies (e.g. auditor, data protection officer, IT security department, data protection auditor)
+	+ a suitable certification by IT security or data protection auditing
 4. The Processor may charge a reasonable fee to the Controller for enabling inspections.
 
 ## 8. Assistance to the Controller
 
 1. The Processor shall assist the Controller in complying with the obligations concerning the security of personal data, reporting of data breaches, data protection impact assessments and prior consultations set forth at Articles 32 to 36 of the GDPR, including
-   1. ensuring adequate protection standards through technical and organizational measures, taking into account the type, circumstances and purposes of processing, the likelihood of data breaches and the severity of the risk to natural persons possibly resulting thereof
-   2. ensuring immediate detection of infringements
+	+ ensuring adequate protection standards through technical and organizational measures, taking into account the type, circumstances and purposes of processing, the likelihood of data breaches and the severity of the risk to natural persons possibly resulting thereof
+	+ ensuring immediate detection of infringements
       reporting data breaches without undue delay to the Controller
-   3. assisting the Controller in answering to data subjects' requests or the exercise of their rights
+	+ assisting the Controller in answering to data subjects' requests or the exercise of their rights
 2. The Processor may claim a reasonable fee for support services which are not included in the description of the services and which are not attributable to failures on the part of the Processor.
 
 ## 9. Directive powers of the Controller
