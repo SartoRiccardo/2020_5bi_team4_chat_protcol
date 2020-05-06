@@ -20,6 +20,22 @@ nav:
         - User Guide: user_guide.md
         - System Requirements: system_requirements.md
         - Data Processing Agreement: data_processing_agreement.md
+    - PDF Versions:
+        - Project Charter: project_charter.md
+        - Business Model Canvas: pdf/business_model_canvas.pdf
+        - Software Requirements Specification: software_requirements_specification.md
+        - Software Project Management Plan: software_project_management_plan.md
+        - Project Model Canvas: pdf/project_model_canvas.pdf
+        - Release Plan: release_plan.pdf
+        - Iteration Plan: iteration_plan.pdf
+        - Project Success Criteria: project_success_criteria.pdf
+        - Architecture and Design: architecture_and_design.pdf
+        - Coding Standards: coding_standards.pdf
+        - Test Plan: test_plan.pdf
+        - Test Case Specification: test_case_specification.pdf
+        - User Guide: user_guide.pdf
+        - System Requirements: system_requirements.pdf
+        - Data Processing Agreement: data_processing_agreement.pdf
     
 theme:
     name: readthedocs
