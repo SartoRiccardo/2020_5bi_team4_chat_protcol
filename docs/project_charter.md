@@ -1,5 +1,14 @@
 # Project Charter
 
+### Change History
+
+| Version | Date        | Modifier           | Description of Change                                |
+| ------- | ----------- | ------------------ | ---------------------------------------------------- |
+| 0.1     | 02 Apr 2020 | Riccardo Sartori   | Initial draft.                                       |
+| 0.2     | 02 Jan 2020 | Damiano Ghisellini | Goals and Objectives, Scope.                         |
+| 0.3     | 04 Jan 2020 | Andrea Mafficini   | Project Priorities and Degrees of Freedom, Approach. |
+| 0.4     | 04 Jan 2020 | Davide Bianchini   | Constraints, Assumptions, Success Criteria.          |
+
 + **Start date:** 15/10/2019
 + **End date:** 29/10/2019
 + **Project Manger** Lorenzo DeCarli

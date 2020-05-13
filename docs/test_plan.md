@@ -1,5 +1,11 @@
 # Test Plan
 
+### Change History
+
+| Version | Date        | Modifier           | Description of Change |
+| ------- | ----------- | ------------------ | --------------------- |
+| 0.1     | 14 Apr 2020 | Damiano Ghisellini | Initial draft.        |
+
 ## 1. Introduction
 
 This document details the objectives, resources, and processes for a specific test for the PCTO Application. It discovers faults and failures in the software.

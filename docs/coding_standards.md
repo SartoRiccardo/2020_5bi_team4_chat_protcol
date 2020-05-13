@@ -1,5 +1,11 @@
 # Coding Standards
 
+### Change History
+
+| Version | Date        | Modifier         | Description of Change |
+| ------- | ----------- | ---------------- | --------------------- |
+| 0.1     | Mar 20 2020 | Riccardo Sartori | Initial draft.        |
+
 This project's frontend will be programmed in Javascript.
 
 ## 1. Files

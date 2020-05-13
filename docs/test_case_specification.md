@@ -1,5 +1,11 @@
 # Test Case Specification
 
+### Change History
+
+| Version | Date        | Modifier           | Description of Change |
+| ------- | ----------- | ------------------ | --------------------- |
+| 0.1     | 22 Mar 2020 | Damiano Ghisellini | Initial draft.        |
+
 ## 1. Introduction
 
 This document provides the test cases to be carried out for the PCTO Application. Each part to be tested is represented by an individual test case. Each case details the input and expected outputs.

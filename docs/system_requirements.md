@@ -1,5 +1,11 @@
 # System Requirements
 
+### Change History
+
+| Version | Date        | Modifier           | Description of Change |
+| ------- | ----------- | ------------------ | --------------------- |
+| 0.1     | 14 Apr 2020 | Damiano Ghisellini | Initial draft.        |
+
 ## 1. Introduction
 
 The PCTO management application allows users to view the companies that collaborate with the school and offers tutors a simpler way of managing, adding, removing or modifying them. This document will provide instructions for accessing the site, researching and modifying companies.

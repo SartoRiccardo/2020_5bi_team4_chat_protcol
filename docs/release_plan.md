@@ -1,4 +1,10 @@
 # Relase plan
+### Change History
+
+| Version | Date        | Modifier         | Description of Change |
+| ------- | ----------- | ---------------- | --------------------- |
+| 0.1     | 01 Apr 2020 | Andrea Mafficini | Initial draft.        |
+
 ## Relase Summary
 
 ### Initiation

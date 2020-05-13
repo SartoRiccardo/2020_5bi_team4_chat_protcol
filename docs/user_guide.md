@@ -1,5 +1,11 @@
 # User Guide
 
+### Change History
+
+| Version | Date        | Modifier         | Description of Change |
+| ------- | ----------- | ---------------- | --------------------- |
+| 0.1     | 29 Mar 2020 | Riccardo Sartori | Initial draft.        |
+
 ## 1. Introduction
 
 The PCTOkay! application allows users to quickly search companies for their internship. It will also allow PCTO tutors to easily manage said companies, add new ones and record the carried out internships. The application is currently hosted at [riccardosartori.it/pctokay](https://www.riccardosartori.it/pctokay/). Although the documentation is in English, this project was made in Italian.

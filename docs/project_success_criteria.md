@@ -1,5 +1,11 @@
 # Project Success Criteria
 
+### Change History
+
+| Version | Date        | Modifier         | Description of Change |
+| ------- | ----------- | ---------------- | --------------------- |
+| 0.1     | 23 Mar 2020 | Davide Bianchini | Initial draft.        |
+
 ## Criteria
 
 The project will be considered a success if...

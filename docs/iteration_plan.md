@@ -1,5 +1,11 @@
 # Iteration Plan
 
+### Change History
+
+| Version | Date        | Modifier         | Description of Change |
+| ------- | ----------- | ---------------- | --------------------- |
+| 0.1     | 30 Mar 2020 | Andrea Mafficini | Initial draft.        |
+
 ## Objectives
 
 The purpose of this iteration is to allow ordinary users, such as parents and students of ITIS G. Marconi, to more easily find the most appropriate companies for the students who must complete their internship. At the end of the iteration, an user must be able to:
