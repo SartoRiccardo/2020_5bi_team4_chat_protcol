@@ -68,4 +68,4 @@ A risk we could face is the lack of experience and skill some students could hav
 
 ---
 
-Download this document as [PDF](pdf/project_charter.pdf)
+See this document as [PDF](pdf/project_charter.pdf)

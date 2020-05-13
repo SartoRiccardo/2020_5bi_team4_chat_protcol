@@ -58,4 +58,4 @@
 
 ---
 
-Download this document as [PDF](pdf/release_plan.pdf)
+See this document as [PDF](pdf/release_plan.pdf)

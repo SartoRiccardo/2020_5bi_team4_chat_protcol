@@ -121,4 +121,4 @@ Once the user was added, click the privileges you want to give them. Grante priv
 
 ---
 
-Download this document as [PDF](pdf/user_guide.pdf)
+See this document as [PDF](pdf/user_guide.pdf)

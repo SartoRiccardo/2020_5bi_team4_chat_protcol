@@ -31,4 +31,4 @@ There will be two types of users who can access this application with two differ
 
 ---
 
-Download this document as [PDF](pdf/iteration_plan.pdf)
+See this document as [PDF](pdf/iteration_plan.pdf)

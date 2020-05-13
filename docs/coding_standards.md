@@ -260,4 +260,4 @@ const init = {
 
 ---
 
-Download this document as [PDF](pdf/coding_standards.pdf)
+See this document as [PDF](pdf/coding_standards.pdf)

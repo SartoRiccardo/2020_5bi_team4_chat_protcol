@@ -108,7 +108,8 @@ In addition to complying with the provisions of this DPA, the Processor commits 
 1. The Processor shall not create copies or duplicates of the data without the Controller's knowledge and consent, except for backup copies as far as they are necessary to ensure orderly data processing, as well as data required to meet regulatory data retention requirements.
 2. After conclusion of the provision of services, the Processor shall, at the Controller's choice, delete in a data-protection compliant manner or return to the Controller all the personal data collected and processed under this DPA, unless any applicable legal provision requires further storage of the personal data. In any case the Processor may retain all information necessary to demonstrate orderly and compliant processing activities beyond termination of the Contract, in accordance with the statutory retention periods. 
 3. Documentation which is used to demonstrate orderly data processing in accordance with the DPA shall be stored beyond the contract term by the Processor in accordance with the respective retention periods. It may hand such documentation over to the Controller at the end of the contract duration to relieve the Processor of this contractual obligation.
+4. 
 
 ---
 
-Download this document as [PDF](pdf/data_process_agreement.pdf)
+See this document as [PDF](pdf/data_process_agreement.pdf)

@@ -49,4 +49,4 @@ A single read through of this document and no more than 2 hours looking at the c
 
 ---
 
-Download this document as [PDF](pdf/project_success_criteria.pdf)
+See this document as [PDF](pdf/project_success_criteria.pdf)

@@ -254,4 +254,4 @@ The changes will appear on the list.
 
 ---
 
-Download this document as [PDF](pdf/test_case_specification.pdf)
+See this document as [PDF](pdf/test_case_specification.pdf)

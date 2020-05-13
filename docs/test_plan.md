@@ -34,4 +34,4 @@ The functions are simple and intuitive, so to consider them functional it will b
 
 ---
 
-Download this document as [PDF](pdf/test_plan.pdf)
+See this document as [PDF](pdf/test_plan.pdf)

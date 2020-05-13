@@ -165,4 +165,4 @@ The following points assuming a client application is present and functioning co
 
 ---
 
-Download this document as [PDF](pdf/software_project_management_plan.pdf)
+See this document as [PDF](pdf/software_project_management_plan.pdf)

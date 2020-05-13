@@ -112,4 +112,4 @@ N/A
 
 ---
 
-Download this document as [PDF](pdf/software_requirements_specification.pdf)
+See this document as [PDF](pdf/software_requirements_specification.pdf)
